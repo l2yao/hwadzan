@@ -1,0 +1,2219 @@
+{
+    "code": 0,
+    "message": "OK",
+    "speechposterUrl": "https://tw2.hwadzan.info/newfabo/",
+    "speechposterDefaultImage": "images/default_wdmaster.jpg",
+    "categories": {
+        "AMTB_ID": 101,
+        "AMTB_NAME": "三皈傳授",
+        "AMTB_PARENT_ID": 98,
+        "level": 77,
+        "isShow": 1,
+        "recommendedsubtable": null,
+        "haschild": 0,
+        "countchild": 0,
+        "categories": []
+    },
+    "sutables": {
+        "current_page": 1,
+        "data": [
+            {
+                "id": 6233,
+                "menuid": "WD16-011",
+                "menuidparent": "WD16",
+                "menuidchild": 11,
+                "voice": "",
+                "title": "三皈大意／三皈傳授",
+                "speechmaker": "悟道法師",
+                "speechdate": "2024.8.11",
+                "speechplace": "亞洲國際博覽館場館5、7、9、11",
+                "introduction": null,
+                "numbers": 1,
+                "numbers_manual": 1,
+                "teachingbook": null,
+                "referencebook": null,
+                "hits": 0,
+                "netprogress": null,
+                "comments": null,
+                "txt": 1,
+                "mp3": 1,
+                "wmv": 0,
+                "hiwmv": 0,
+                "mp4": 1,
+                "himp4": 1,
+                "stb": 0,
+                "rmvb": 0,
+                "flv": 0,
+                "avi": 0,
+                "m2p": 0,
+                "xml": 0,
+                "nlf": 0,
+                "tcf": 0,
+                "vcd": 0,
+                "dvd": 0,
+                "hdtv": 0,
+                "logo": "images/WD16-011.jpg",
+                "image": 0,
+                "updatetime": "2024-10-21 14:35:22",
+                "updateman": "",
+                "ispublic": 1,
+                "flag": 0,
+                "category_AMTB_ID": null,
+                "createtime": null,
+                "titlegb": "三皈大意／三皈传授",
+                "titlegb_at": "2024-10-21 14:46:45",
+                "voices": "",
+                "photography_unit": "香港佛陀教育協會",
+                "schedulepublic": null,
+                "titlealt": "三皈大意／三皈傳授",
+                "titlegbalt": "三皈大意／三皈传授",
+                "topspeech": 0,
+                "all_hits": 28,
+                "subtable_id": 6233,
+                "CategoryNew_id": 101,
+                "mediaid": 392251,
+                "mediatype": "himp4",
+                "new_categories": [
+                    {
+                        "AMTB_ID": 101,
+                        "isShow": 1,
+                        "AMTB_NAME": "三皈傳授",
+                        "postAt": "2012-06-26 11:35:22",
+                        "AMTB_PARENT_ID": 98,
+                        "level": 77,
+                        "amtborder": 0,
+                        "logo": null,
+                        "recommendedsubtableid": null,
+                        "pivot": {
+                            "subtable_id": 6233,
+                            "CategoryNew_id": 101
+                        }
+                    }
+                ],
+                "subtable_tags": [
+                    {
+                        "id": 12,
+                        "meta_comments": "",
+                        "meta_value": "悟道法師",
+                        "parent_id": 2,
+                        "isShow": 1,
+                        "rank": 21,
+                        "pivot": {
+                            "subtable_id": 6233,
+                            "subtabletag_id": 12
+                        }
+                    },
+                    {
+                        "id": 33,
+                        "meta_comments": "",
+                        "meta_value": "香港",
+                        "parent_id": 3,
+                        "isShow": 1,
+                        "rank": 36,
+                        "pivot": {
+                            "subtable_id": 6233,
+                            "subtabletag_id": 33
+                        }
+                    },
+                    {
+                        "id": 71,
+                        "meta_comments": null,
+                        "meta_value": "2024",
+                        "parent_id": 1,
+                        "isShow": 1,
+                        "rank": 0,
+                        "pivot": {
+                            "subtable_id": 6233,
+                            "subtabletag_id": 71
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 6149,
+                "menuid": "WD16-010",
+                "menuidparent": "WD16",
+                "menuidchild": 10,
+                "voice": "",
+                "title": "二Ｏ二三年癸卯中元祭祖護國息災祈福超薦三時繫念法會三皈依開示",
+                "speechmaker": "悟道法師",
+                "speechdate": "2023.8.20",
+                "speechplace": "台灣台北市外貿協會國際會議中心",
+                "introduction": null,
+                "numbers": 1,
+                "numbers_manual": 1,
+                "teachingbook": null,
+                "referencebook": null,
+                "hits": 0,
+                "netprogress": null,
+                "comments": null,
+                "txt": 1,
+                "mp3": 1,
+                "wmv": 0,
+                "hiwmv": 0,
+                "mp4": 1,
+                "himp4": 1,
+                "stb": 0,
+                "rmvb": 0,
+                "flv": 0,
+                "avi": 0,
+                "m2p": 0,
+                "xml": 0,
+                "nlf": 0,
+                "tcf": 0,
+                "vcd": 0,
+                "dvd": 0,
+                "hdtv": 0,
+                "logo": "images/WD16-010.jpg",
+                "image": 0,
+                "updatetime": "2024-07-09 16:13:37",
+                "updateman": "",
+                "ispublic": 1,
+                "flag": 0,
+                "category_AMTB_ID": null,
+                "createtime": null,
+                "titlegb": "二Ｏ二三年癸卯中元祭祖护国息灾祈福超荐三时系念法会三皈依开示",
+                "titlegb_at": "2024-07-09 16:18:31",
+                "voices": "",
+                "photography_unit": "華藏影音組",
+                "schedulepublic": null,
+                "titlealt": "二Ｏ二三年癸卯中元祭祖護國息災祈福超薦三時繫念法會三皈依開示",
+                "titlegbalt": "二Ｏ二三年癸卯中元祭祖护国息灾祈福超荐三时系念法会三皈依开示",
+                "topspeech": 0,
+                "all_hits": 0,
+                "subtable_id": 6149,
+                "CategoryNew_id": 101,
+                "mediaid": 384942,
+                "mediatype": "himp4",
+                "new_categories": [
+                    {
+                        "AMTB_ID": 101,
+                        "isShow": 1,
+                        "AMTB_NAME": "三皈傳授",
+                        "postAt": "2012-06-26 11:35:22",
+                        "AMTB_PARENT_ID": 98,
+                        "level": 77,
+                        "amtborder": 0,
+                        "logo": null,
+                        "recommendedsubtableid": null,
+                        "pivot": {
+                            "subtable_id": 6149,
+                            "CategoryNew_id": 101
+                        }
+                    }
+                ],
+                "subtable_tags": [
+                    {
+                        "id": 12,
+                        "meta_comments": "",
+                        "meta_value": "悟道法師",
+                        "parent_id": 2,
+                        "isShow": 1,
+                        "rank": 21,
+                        "pivot": {
+                            "subtable_id": 6149,
+                            "subtabletag_id": 12
+                        }
+                    },
+                    {
+                        "id": 32,
+                        "meta_comments": "",
+                        "meta_value": "臺灣",
+                        "parent_id": 3,
+                        "isShow": 1,
+                        "rank": 35,
+                        "pivot": {
+                            "subtable_id": 6149,
+                            "subtabletag_id": 32
+                        }
+                    },
+                    {
+                        "id": 70,
+                        "meta_comments": null,
+                        "meta_value": "2023",
+                        "parent_id": 1,
+                        "isShow": 1,
+                        "rank": 2,
+                        "pivot": {
+                            "subtable_id": 6149,
+                            "subtabletag_id": 70
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 5018,
+                "menuid": "WD16-009",
+                "menuidparent": "WD16",
+                "menuidchild": 9,
+                "voice": "",
+                "title": "傳授三皈",
+                "speechmaker": "悟道法師",
+                "speechdate": "2018.10.14",
+                "speechplace": "中國山西省大同市華嚴寺",
+                "introduction": null,
+                "numbers": 1,
+                "numbers_manual": 1,
+                "teachingbook": null,
+                "referencebook": null,
+                "hits": 0,
+                "netprogress": null,
+                "comments": "三時繫念法會圓滿後，師父現場傳授三皈並開示",
+                "txt": 1,
+                "mp3": 1,
+                "wmv": 0,
+                "hiwmv": 0,
+                "mp4": 1,
+                "himp4": 1,
+                "stb": 0,
+                "rmvb": 0,
+                "flv": 0,
+                "avi": 0,
+                "m2p": 0,
+                "xml": 0,
+                "nlf": 0,
+                "tcf": 0,
+                "vcd": 0,
+                "dvd": 0,
+                "hdtv": 0,
+                "logo": "images/WD16-009.jpg",
+                "image": 0,
+                "updatetime": "2024-07-09 16:13:24",
+                "updateman": "",
+                "ispublic": 1,
+                "flag": 0,
+                "category_AMTB_ID": 101,
+                "createtime": null,
+                "titlegb": "传授三皈",
+                "titlegb_at": "2024-07-09 16:18:31",
+                "voices": "",
+                "photography_unit": "華藏法務組",
+                "schedulepublic": null,
+                "titlealt": "傳授三皈",
+                "titlegbalt": "传授三皈",
+                "topspeech": 0,
+                "all_hits": 10,
+                "subtable_id": 5018,
+                "CategoryNew_id": 101,
+                "mediaid": 332742,
+                "mediatype": "himp4",
+                "new_categories": [
+                    {
+                        "AMTB_ID": 101,
+                        "isShow": 1,
+                        "AMTB_NAME": "三皈傳授",
+                        "postAt": "2012-06-26 11:35:22",
+                        "AMTB_PARENT_ID": 98,
+                        "level": 77,
+                        "amtborder": 0,
+                        "logo": null,
+                        "recommendedsubtableid": null,
+                        "pivot": {
+                            "subtable_id": 5018,
+                            "CategoryNew_id": 101
+                        }
+                    }
+                ],
+                "subtable_tags": [
+                    {
+                        "id": 12,
+                        "meta_comments": "",
+                        "meta_value": "悟道法師",
+                        "parent_id": 2,
+                        "isShow": 1,
+                        "rank": 21,
+                        "pivot": {
+                            "subtable_id": 5018,
+                            "subtabletag_id": 12
+                        }
+                    },
+                    {
+                        "id": 43,
+                        "meta_comments": "",
+                        "meta_value": "大陸",
+                        "parent_id": 3,
+                        "isShow": 1,
+                        "rank": 45,
+                        "pivot": {
+                            "subtable_id": 5018,
+                            "subtabletag_id": 43
+                        }
+                    },
+                    {
+                        "id": 62,
+                        "meta_comments": "",
+                        "meta_value": "2018",
+                        "parent_id": 1,
+                        "isShow": 1,
+                        "rank": 7,
+                        "pivot": {
+                            "subtable_id": 5018,
+                            "subtabletag_id": 62
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 4338,
+                "menuid": "WD16-007",
+                "menuidparent": "WD16",
+                "menuidchild": 7,
+                "voice": "",
+                "title": "上海和行道德講堂開示―三皈依講解",
+                "speechmaker": "悟道法師",
+                "speechdate": "2015.08.10",
+                "speechplace": "中國上海和行道德講堂",
+                "introduction": null,
+                "numbers": 1,
+                "numbers_manual": 1,
+                "teachingbook": null,
+                "referencebook": null,
+                "hits": 0,
+                "netprogress": null,
+                "comments": null,
+                "txt": 1,
+                "mp3": 1,
+                "wmv": 0,
+                "hiwmv": 0,
+                "mp4": 1,
+                "himp4": 1,
+                "stb": 0,
+                "rmvb": 0,
+                "flv": 0,
+                "avi": 0,
+                "m2p": 0,
+                "xml": 0,
+                "nlf": 0,
+                "tcf": 0,
+                "vcd": 0,
+                "dvd": 0,
+                "hdtv": 0,
+                "logo": "images/WD16-007.jpg",
+                "image": 0,
+                "updatetime": "2024-07-09 16:13:06",
+                "updateman": "",
+                "ispublic": 1,
+                "flag": 0,
+                "category_AMTB_ID": 101,
+                "createtime": null,
+                "titlegb": "上海和行道德讲堂开示―三皈依讲解",
+                "titlegb_at": "2024-07-09 16:18:31",
+                "voices": "",
+                "photography_unit": null,
+                "schedulepublic": null,
+                "titlealt": "上海和行道德講堂開示―三皈依講解",
+                "titlegbalt": "上海和行道德讲堂开示―三皈依讲解",
+                "topspeech": 0,
+                "all_hits": 8,
+                "subtable_id": 4338,
+                "CategoryNew_id": 101,
+                "mediaid": 332740,
+                "mediatype": "himp4",
+                "new_categories": [
+                    {
+                        "AMTB_ID": 101,
+                        "isShow": 1,
+                        "AMTB_NAME": "三皈傳授",
+                        "postAt": "2012-06-26 11:35:22",
+                        "AMTB_PARENT_ID": 98,
+                        "level": 77,
+                        "amtborder": 0,
+                        "logo": null,
+                        "recommendedsubtableid": null,
+                        "pivot": {
+                            "subtable_id": 4338,
+                            "CategoryNew_id": 101
+                        }
+                    }
+                ],
+                "subtable_tags": [
+                    {
+                        "id": 12,
+                        "meta_comments": "",
+                        "meta_value": "悟道法師",
+                        "parent_id": 2,
+                        "isShow": 1,
+                        "rank": 21,
+                        "pivot": {
+                            "subtable_id": 4338,
+                            "subtabletag_id": 12
+                        }
+                    },
+                    {
+                        "id": 29,
+                        "meta_comments": "",
+                        "meta_value": "2015",
+                        "parent_id": 1,
+                        "isShow": 1,
+                        "rank": 10,
+                        "pivot": {
+                            "subtable_id": 4338,
+                            "subtabletag_id": 29
+                        }
+                    },
+                    {
+                        "id": 43,
+                        "meta_comments": "",
+                        "meta_value": "大陸",
+                        "parent_id": 3,
+                        "isShow": 1,
+                        "rank": 45,
+                        "pivot": {
+                            "subtable_id": 4338,
+                            "subtabletag_id": 43
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 3358,
+                "menuid": "WD16-006",
+                "menuidparent": "WD16",
+                "menuidchild": 6,
+                "voice": "",
+                "title": "三皈傳授",
+                "speechmaker": "悟道法師",
+                "speechdate": "2012.7.8",
+                "speechplace": "華藏淨宗學會",
+                "introduction": null,
+                "numbers": 1,
+                "numbers_manual": 1,
+                "teachingbook": null,
+                "referencebook": null,
+                "hits": 0,
+                "netprogress": null,
+                "comments": null,
+                "txt": 1,
+                "mp3": 1,
+                "wmv": 0,
+                "hiwmv": 0,
+                "mp4": 1,
+                "himp4": 1,
+                "stb": 0,
+                "rmvb": 0,
+                "flv": 0,
+                "avi": 0,
+                "m2p": 0,
+                "xml": 0,
+                "nlf": 0,
+                "tcf": 0,
+                "vcd": 0,
+                "dvd": 0,
+                "hdtv": 0,
+                "logo": "images/WD16-006.jpg",
+                "image": 0,
+                "updatetime": "2024-07-09 16:12:52",
+                "updateman": "",
+                "ispublic": 1,
+                "flag": 0,
+                "category_AMTB_ID": 101,
+                "createtime": null,
+                "titlegb": "三皈传授",
+                "titlegb_at": "2024-07-09 16:18:31",
+                "voices": "",
+                "photography_unit": null,
+                "schedulepublic": null,
+                "titlealt": "三皈傳授",
+                "titlegbalt": "三皈传授",
+                "topspeech": 0,
+                "all_hits": 1,
+                "subtable_id": 3358,
+                "CategoryNew_id": 101,
+                "mediaid": 332739,
+                "mediatype": "himp4",
+                "new_categories": [
+                    {
+                        "AMTB_ID": 101,
+                        "isShow": 1,
+                        "AMTB_NAME": "三皈傳授",
+                        "postAt": "2012-06-26 11:35:22",
+                        "AMTB_PARENT_ID": 98,
+                        "level": 77,
+                        "amtborder": 0,
+                        "logo": null,
+                        "recommendedsubtableid": null,
+                        "pivot": {
+                            "subtable_id": 3358,
+                            "CategoryNew_id": 101
+                        }
+                    }
+                ],
+                "subtable_tags": [
+                    {
+                        "id": 12,
+                        "meta_comments": "",
+                        "meta_value": "悟道法師",
+                        "parent_id": 2,
+                        "isShow": 1,
+                        "rank": 21,
+                        "pivot": {
+                            "subtable_id": 3358,
+                            "subtabletag_id": 12
+                        }
+                    },
+                    {
+                        "id": 26,
+                        "meta_comments": "",
+                        "meta_value": "2012",
+                        "parent_id": 1,
+                        "isShow": 1,
+                        "rank": 13,
+                        "pivot": {
+                            "subtable_id": 3358,
+                            "subtabletag_id": 26
+                        }
+                    },
+                    {
+                        "id": 32,
+                        "meta_comments": "",
+                        "meta_value": "臺灣",
+                        "parent_id": 3,
+                        "isShow": 1,
+                        "rank": 35,
+                        "pivot": {
+                            "subtable_id": 3358,
+                            "subtabletag_id": 32
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 3204,
+                "menuid": "WD16-005",
+                "menuidparent": "WD16",
+                "menuidchild": 5,
+                "voice": "",
+                "title": "香港冬至護國息災三時繫念法會－三皈五戒傳授",
+                "speechmaker": "悟道法師",
+                "speechdate": "2011.12.17",
+                "speechplace": "香港尖沙咀街坊福利會",
+                "introduction": null,
+                "numbers": 1,
+                "numbers_manual": 1,
+                "teachingbook": null,
+                "referencebook": null,
+                "hits": 0,
+                "netprogress": null,
+                "comments": null,
+                "txt": 1,
+                "mp3": 1,
+                "wmv": 0,
+                "hiwmv": 0,
+                "mp4": 1,
+                "himp4": 1,
+                "stb": 0,
+                "rmvb": 0,
+                "flv": 0,
+                "avi": 0,
+                "m2p": 0,
+                "xml": 0,
+                "nlf": 0,
+                "tcf": 0,
+                "vcd": 0,
+                "dvd": 0,
+                "hdtv": 0,
+                "logo": "images/WD16-005.jpg",
+                "image": 0,
+                "updatetime": "2024-07-09 16:12:37",
+                "updateman": "",
+                "ispublic": 1,
+                "flag": 0,
+                "category_AMTB_ID": 101,
+                "createtime": null,
+                "titlegb": "香港冬至护国息灾三时系念法会－三皈五戒传授",
+                "titlegb_at": "2024-07-09 16:18:31",
+                "voices": "",
+                "photography_unit": null,
+                "schedulepublic": null,
+                "titlealt": "香港冬至護國息災三時繫念法會－三皈五戒傳授",
+                "titlegbalt": "香港冬至护国息灾三时系念法会－三皈五戒传授",
+                "topspeech": 0,
+                "all_hits": 4,
+                "subtable_id": 3204,
+                "CategoryNew_id": 101,
+                "mediaid": 332738,
+                "mediatype": "himp4",
+                "new_categories": [
+                    {
+                        "AMTB_ID": 101,
+                        "isShow": 1,
+                        "AMTB_NAME": "三皈傳授",
+                        "postAt": "2012-06-26 11:35:22",
+                        "AMTB_PARENT_ID": 98,
+                        "level": 77,
+                        "amtborder": 0,
+                        "logo": null,
+                        "recommendedsubtableid": null,
+                        "pivot": {
+                            "subtable_id": 3204,
+                            "CategoryNew_id": 101
+                        }
+                    }
+                ],
+                "subtable_tags": [
+                    {
+                        "id": 12,
+                        "meta_comments": "",
+                        "meta_value": "悟道法師",
+                        "parent_id": 2,
+                        "isShow": 1,
+                        "rank": 21,
+                        "pivot": {
+                            "subtable_id": 3204,
+                            "subtabletag_id": 12
+                        }
+                    },
+                    {
+                        "id": 25,
+                        "meta_comments": "",
+                        "meta_value": "2011",
+                        "parent_id": 1,
+                        "isShow": 1,
+                        "rank": 14,
+                        "pivot": {
+                            "subtable_id": 3204,
+                            "subtabletag_id": 25
+                        }
+                    },
+                    {
+                        "id": 33,
+                        "meta_comments": "",
+                        "meta_value": "香港",
+                        "parent_id": 3,
+                        "isShow": 1,
+                        "rank": 36,
+                        "pivot": {
+                            "subtable_id": 3204,
+                            "subtabletag_id": 33
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 3149,
+                "menuid": "WD16-004",
+                "menuidparent": "WD16",
+                "menuidchild": 4,
+                "voice": "",
+                "title": "三皈傳授",
+                "speechmaker": "悟道法師",
+                "speechdate": "2011.11.12-24",
+                "speechplace": "澳洲隨喜居",
+                "introduction": null,
+                "numbers": 6,
+                "numbers_manual": 6,
+                "teachingbook": null,
+                "referencebook": null,
+                "hits": 0,
+                "netprogress": null,
+                "comments": "側錄；包含網路三皈依",
+                "txt": 1,
+                "mp3": 1,
+                "wmv": 0,
+                "hiwmv": 0,
+                "mp4": 1,
+                "himp4": 1,
+                "stb": 0,
+                "rmvb": 0,
+                "flv": 0,
+                "avi": 0,
+                "m2p": 0,
+                "xml": 0,
+                "nlf": 0,
+                "tcf": 0,
+                "vcd": 0,
+                "dvd": 0,
+                "hdtv": 0,
+                "logo": "images/WD16-004.jpg",
+                "image": 0,
+                "updatetime": "2024-07-10 12:12:21",
+                "updateman": "",
+                "ispublic": 1,
+                "flag": 0,
+                "category_AMTB_ID": 101,
+                "createtime": null,
+                "titlegb": "三皈传授",
+                "titlegb_at": "2024-07-10 12:19:22",
+                "voices": "",
+                "photography_unit": null,
+                "schedulepublic": null,
+                "titlealt": "三皈傳授",
+                "titlegbalt": "三皈传授",
+                "topspeech": 0,
+                "all_hits": 5,
+                "subtable_id": 3149,
+                "CategoryNew_id": 101,
+                "mediaid": 332732,
+                "mediatype": "himp4",
+                "new_categories": [
+                    {
+                        "AMTB_ID": 101,
+                        "isShow": 1,
+                        "AMTB_NAME": "三皈傳授",
+                        "postAt": "2012-06-26 11:35:22",
+                        "AMTB_PARENT_ID": 98,
+                        "level": 77,
+                        "amtborder": 0,
+                        "logo": null,
+                        "recommendedsubtableid": null,
+                        "pivot": {
+                            "subtable_id": 3149,
+                            "CategoryNew_id": 101
+                        }
+                    }
+                ],
+                "subtable_tags": [
+                    {
+                        "id": 12,
+                        "meta_comments": "",
+                        "meta_value": "悟道法師",
+                        "parent_id": 2,
+                        "isShow": 1,
+                        "rank": 21,
+                        "pivot": {
+                            "subtable_id": 3149,
+                            "subtabletag_id": 12
+                        }
+                    },
+                    {
+                        "id": 25,
+                        "meta_comments": "",
+                        "meta_value": "2011",
+                        "parent_id": 1,
+                        "isShow": 1,
+                        "rank": 14,
+                        "pivot": {
+                            "subtable_id": 3149,
+                            "subtabletag_id": 25
+                        }
+                    },
+                    {
+                        "id": 39,
+                        "meta_comments": "",
+                        "meta_value": "澳洲",
+                        "parent_id": 3,
+                        "isShow": 1,
+                        "rank": 41,
+                        "pivot": {
+                            "subtable_id": 3149,
+                            "subtabletag_id": 39
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 2084,
+                "menuid": "WD16-002",
+                "menuidparent": "WD16",
+                "menuidchild": 2,
+                "voice": "",
+                "title": "2007年日本東京夏季消災祈福普度－三皈五戒",
+                "speechmaker": "悟道法師",
+                "speechdate": "2007.6.24",
+                "speechplace": "日本東京增上寺",
+                "introduction": null,
+                "numbers": 1,
+                "numbers_manual": 1,
+                "teachingbook": null,
+                "referencebook": null,
+                "hits": 0,
+                "netprogress": null,
+                "comments": null,
+                "txt": 1,
+                "mp3": 1,
+                "wmv": 0,
+                "hiwmv": 0,
+                "mp4": 1,
+                "himp4": 1,
+                "stb": 0,
+                "rmvb": 0,
+                "flv": 0,
+                "avi": 0,
+                "m2p": 0,
+                "xml": 0,
+                "nlf": 0,
+                "tcf": 0,
+                "vcd": 0,
+                "dvd": 0,
+                "hdtv": 0,
+                "logo": "images/WD16-002.jpg",
+                "image": 0,
+                "updatetime": "2024-07-09 16:12:18",
+                "updateman": "pinjie",
+                "ispublic": 1,
+                "flag": 1,
+                "category_AMTB_ID": 101,
+                "createtime": null,
+                "titlegb": "2007年日本东京夏季消灾祈福普度－三皈五戒",
+                "titlegb_at": "2024-07-09 16:18:31",
+                "voices": "",
+                "photography_unit": null,
+                "schedulepublic": null,
+                "titlealt": "2007年日本東京夏季消災祈福普度－三皈五戒",
+                "titlegbalt": "2007年日本东京夏季消灾祈福普度－三皈五戒",
+                "topspeech": 0,
+                "all_hits": 1,
+                "subtable_id": 2084,
+                "CategoryNew_id": 101,
+                "mediaid": 332731,
+                "mediatype": "himp4",
+                "new_categories": [
+                    {
+                        "AMTB_ID": 101,
+                        "isShow": 1,
+                        "AMTB_NAME": "三皈傳授",
+                        "postAt": "2012-06-26 11:35:22",
+                        "AMTB_PARENT_ID": 98,
+                        "level": 77,
+                        "amtborder": 0,
+                        "logo": null,
+                        "recommendedsubtableid": null,
+                        "pivot": {
+                            "subtable_id": 2084,
+                            "CategoryNew_id": 101
+                        }
+                    }
+                ],
+                "subtable_tags": [
+                    {
+                        "id": 12,
+                        "meta_comments": "",
+                        "meta_value": "悟道法師",
+                        "parent_id": 2,
+                        "isShow": 1,
+                        "rank": 21,
+                        "pivot": {
+                            "subtable_id": 2084,
+                            "subtabletag_id": 12
+                        }
+                    },
+                    {
+                        "id": 24,
+                        "meta_comments": "",
+                        "meta_value": "2001~2010",
+                        "parent_id": 1,
+                        "isShow": 1,
+                        "rank": 15,
+                        "pivot": {
+                            "subtable_id": 2084,
+                            "subtabletag_id": 24
+                        }
+                    },
+                    {
+                        "id": 38,
+                        "meta_comments": "",
+                        "meta_value": "日本",
+                        "parent_id": 3,
+                        "isShow": 1,
+                        "rank": 40,
+                        "pivot": {
+                            "subtable_id": 2084,
+                            "subtabletag_id": 38
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 2083,
+                "menuid": "WD16-001",
+                "menuidparent": "WD16",
+                "menuidchild": 1,
+                "voice": "",
+                "title": "三皈傳授",
+                "speechmaker": "悟道法師",
+                "speechdate": "2002.7.18",
+                "speechplace": "華藏淨宗學會",
+                "introduction": null,
+                "numbers": 1,
+                "numbers_manual": 1,
+                "teachingbook": "覆講16-13",
+                "referencebook": null,
+                "hits": 0,
+                "netprogress": null,
+                "comments": null,
+                "txt": 0,
+                "mp3": 1,
+                "wmv": 0,
+                "hiwmv": 0,
+                "mp4": 1,
+                "himp4": 1,
+                "stb": 0,
+                "rmvb": 0,
+                "flv": 0,
+                "avi": 0,
+                "m2p": 0,
+                "xml": 0,
+                "nlf": 0,
+                "tcf": 0,
+                "vcd": 0,
+                "dvd": 0,
+                "hdtv": 0,
+                "logo": "images/WD16-001.jpg",
+                "image": 0,
+                "updatetime": "2024-07-09 16:11:55",
+                "updateman": "SYSTEM_BOT",
+                "ispublic": 1,
+                "flag": 1,
+                "category_AMTB_ID": 101,
+                "createtime": null,
+                "titlegb": "三皈传授",
+                "titlegb_at": "2024-07-09 16:18:31",
+                "voices": "",
+                "photography_unit": null,
+                "schedulepublic": null,
+                "titlealt": "三皈傳授",
+                "titlegbalt": "三皈传授",
+                "topspeech": 0,
+                "all_hits": 2,
+                "subtable_id": 2083,
+                "CategoryNew_id": 101,
+                "mediaid": 332730,
+                "mediatype": "himp4",
+                "new_categories": [
+                    {
+                        "AMTB_ID": 101,
+                        "isShow": 1,
+                        "AMTB_NAME": "三皈傳授",
+                        "postAt": "2012-06-26 11:35:22",
+                        "AMTB_PARENT_ID": 98,
+                        "level": 77,
+                        "amtborder": 0,
+                        "logo": null,
+                        "recommendedsubtableid": null,
+                        "pivot": {
+                            "subtable_id": 2083,
+                            "CategoryNew_id": 101
+                        }
+                    },
+                    {
+                        "AMTB_ID": 176,
+                        "isShow": 1,
+                        "AMTB_NAME": "閩南語",
+                        "postAt": "2021-01-28 14:13:37",
+                        "AMTB_PARENT_ID": 175,
+                        "level": 145,
+                        "amtborder": 0,
+                        "logo": null,
+                        "recommendedsubtableid": null,
+                        "pivot": {
+                            "subtable_id": 2083,
+                            "CategoryNew_id": 176
+                        }
+                    }
+                ],
+                "subtable_tags": [
+                    {
+                        "id": 12,
+                        "meta_comments": "",
+                        "meta_value": "悟道法師",
+                        "parent_id": 2,
+                        "isShow": 1,
+                        "rank": 21,
+                        "pivot": {
+                            "subtable_id": 2083,
+                            "subtabletag_id": 12
+                        }
+                    },
+                    {
+                        "id": 24,
+                        "meta_comments": "",
+                        "meta_value": "2001~2010",
+                        "parent_id": 1,
+                        "isShow": 1,
+                        "rank": 15,
+                        "pivot": {
+                            "subtable_id": 2083,
+                            "subtabletag_id": 24
+                        }
+                    },
+                    {
+                        "id": 32,
+                        "meta_comments": "",
+                        "meta_value": "臺灣",
+                        "parent_id": 3,
+                        "isShow": 1,
+                        "rank": 35,
+                        "pivot": {
+                            "subtable_id": 2083,
+                            "subtabletag_id": 32
+                        }
+                    },
+                    {
+                        "id": 50,
+                        "meta_comments": "MN",
+                        "meta_value": "閩南語",
+                        "parent_id": 5,
+                        "isShow": 1,
+                        "rank": 53,
+                        "pivot": {
+                            "subtable_id": 2083,
+                            "subtabletag_id": 50
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 6053,
+                "menuid": "61-269",
+                "menuidparent": "61",
+                "menuidchild": 269,
+                "voice": "",
+                "title": "三皈依儀規講解",
+                "speechmaker": "悟道法師",
+                "speechdate": "2022.11.3",
+                "speechplace": "華藏淨宗學會",
+                "introduction": null,
+                "numbers": 1,
+                "numbers_manual": 1,
+                "teachingbook": null,
+                "referencebook": null,
+                "hits": 0,
+                "netprogress": null,
+                "comments": "有聲書；2022/12/4 早上9:30首播",
+                "txt": 1,
+                "mp3": 1,
+                "wmv": 0,
+                "hiwmv": 0,
+                "mp4": 1,
+                "himp4": 1,
+                "stb": 0,
+                "rmvb": 0,
+                "flv": 0,
+                "avi": 0,
+                "m2p": 0,
+                "xml": 0,
+                "nlf": 0,
+                "tcf": 0,
+                "vcd": 0,
+                "dvd": 0,
+                "hdtv": 0,
+                "logo": "images/61-269.jpg",
+                "image": 0,
+                "updatetime": "2023-05-12 16:23:34",
+                "updateman": "",
+                "ispublic": 1,
+                "flag": 0,
+                "category_AMTB_ID": null,
+                "createtime": null,
+                "titlegb": "三皈依仪规讲解",
+                "titlegb_at": "2023-05-12 16:31:34",
+                "voices": "",
+                "photography_unit": null,
+                "schedulepublic": null,
+                "titlealt": "三皈依儀規講解",
+                "titlegbalt": "三皈依仪规讲解",
+                "topspeech": 0,
+                "all_hits": 6,
+                "subtable_id": 6053,
+                "CategoryNew_id": 101,
+                "mediaid": 349878,
+                "mediatype": "himp4",
+                "new_categories": [
+                    {
+                        "AMTB_ID": 101,
+                        "isShow": 1,
+                        "AMTB_NAME": "三皈傳授",
+                        "postAt": "2012-06-26 11:35:22",
+                        "AMTB_PARENT_ID": 98,
+                        "level": 77,
+                        "amtborder": 0,
+                        "logo": null,
+                        "recommendedsubtableid": null,
+                        "pivot": {
+                            "subtable_id": 6053,
+                            "CategoryNew_id": 101
+                        }
+                    }
+                ],
+                "subtable_tags": [
+                    {
+                        "id": 12,
+                        "meta_comments": "",
+                        "meta_value": "悟道法師",
+                        "parent_id": 2,
+                        "isShow": 1,
+                        "rank": 21,
+                        "pivot": {
+                            "subtable_id": 6053,
+                            "subtabletag_id": 12
+                        }
+                    },
+                    {
+                        "id": 32,
+                        "meta_comments": "",
+                        "meta_value": "臺灣",
+                        "parent_id": 3,
+                        "isShow": 1,
+                        "rank": 35,
+                        "pivot": {
+                            "subtable_id": 6053,
+                            "subtabletag_id": 32
+                        }
+                    },
+                    {
+                        "id": 69,
+                        "meta_comments": null,
+                        "meta_value": "2022",
+                        "parent_id": 1,
+                        "isShow": 1,
+                        "rank": 3,
+                        "pivot": {
+                            "subtable_id": 6053,
+                            "subtabletag_id": 69
+                        }
+                    }
+                ]
+            }
+        ],
+        "first_page_url": "https://work.hwadzan.org/api/hwadzan/v2/newcategory/101?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://work.hwadzan.org/api/hwadzan/v2/newcategory/101?page=1",
+        "next_page_url": null,
+        "path": "https://work.hwadzan.org/api/hwadzan/v2/newcategory/101",
+        "per_page": 100000,
+        "prev_page_url": null,
+        "to": 10,
+        "total": 10
+    },
+    "topspeech": {
+        "name": "悟道法師置頂講演",
+        "data": []
+    },
+    "hotspeech": {
+        "name": "悟道法師熱門講演",
+        "data": [
+            {
+                "id": 4419,
+                "menuid": "WD19-025",
+                "menuidparent": "WD19",
+                "menuidchild": 25,
+                "voice": "",
+                "title": "安士全書",
+                "speechmaker": "悟道法師",
+                "speechdate": "2015.12.29",
+                "speechplace": "中國上海、澳洲淨宗學院",
+                "introduction": null,
+                "numbers": 78,
+                "numbers_manual": 30,
+                "teachingbook": null,
+                "referencebook": null,
+                "hits": 0,
+                "netprogress": null,
+                "comments": null,
+                "txt": 1,
+                "mp3": 1,
+                "wmv": 0,
+                "hiwmv": 0,
+                "mp4": 1,
+                "himp4": 1,
+                "stb": 1,
+                "rmvb": 0,
+                "flv": 0,
+                "avi": 0,
+                "m2p": 0,
+                "xml": 0,
+                "nlf": 0,
+                "tcf": 0,
+                "vcd": 0,
+                "dvd": 0,
+                "hdtv": 0,
+                "logo": "images/WD19-025.jpg",
+                "image": 0,
+                "updatetime": "2024-07-22 14:29:22",
+                "updateman": "",
+                "ispublic": 1,
+                "flag": 0,
+                "category_AMTB_ID": 48,
+                "createtime": null,
+                "titlegb": "安士全书",
+                "titlegb_at": "2024-07-22 14:31:44",
+                "voices": "",
+                "photography_unit": null,
+                "schedulepublic": null,
+                "titlealt": "安士全書",
+                "titlegbalt": "安士全书",
+                "topspeech": 0,
+                "all_hits": 2887,
+                "new_categories": [
+                    {
+                        "AMTB_ID": 48,
+                        "isShow": 1,
+                        "AMTB_NAME": "因果教育",
+                        "postAt": "2012-06-20 15:19:06",
+                        "AMTB_PARENT_ID": 15,
+                        "level": 101,
+                        "amtborder": 0,
+                        "logo": null,
+                        "recommendedsubtableid": null,
+                        "pivot": {
+                            "subtable_id": 4419,
+                            "CategoryNew_id": 48
+                        }
+                    }
+                ],
+                "subtable_tags": [
+                    {
+                        "id": 12,
+                        "meta_comments": "",
+                        "meta_value": "悟道法師",
+                        "parent_id": 2,
+                        "isShow": 1,
+                        "rank": 21,
+                        "pivot": {
+                            "subtable_id": 4419,
+                            "subtabletag_id": 12
+                        }
+                    },
+                    {
+                        "id": 29,
+                        "meta_comments": "",
+                        "meta_value": "2015",
+                        "parent_id": 1,
+                        "isShow": 1,
+                        "rank": 10,
+                        "pivot": {
+                            "subtable_id": 4419,
+                            "subtabletag_id": 29
+                        }
+                    },
+                    {
+                        "id": 43,
+                        "meta_comments": "",
+                        "meta_value": "大陸",
+                        "parent_id": 3,
+                        "isShow": 1,
+                        "rank": 45,
+                        "pivot": {
+                            "subtable_id": 4419,
+                            "subtabletag_id": 43
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 4558,
+                "menuid": "WD14-007",
+                "menuidparent": "WD14",
+                "menuidchild": 7,
+                "voice": "",
+                "title": "地藏菩薩本願經",
+                "speechmaker": "悟道法師",
+                "speechdate": "2016.06.12",
+                "speechplace": "英國倫敦 英國華藏淨宗學會",
+                "introduction": null,
+                "numbers": 29,
+                "numbers_manual": 29,
+                "teachingbook": null,
+                "referencebook": null,
+                "hits": 0,
+                "netprogress": null,
+                "comments": null,
+                "txt": 1,
+                "mp3": 1,
+                "wmv": 0,
+                "hiwmv": 0,
+                "mp4": 1,
+                "himp4": 1,
+                "stb": 0,
+                "rmvb": 0,
+                "flv": 0,
+                "avi": 0,
+                "m2p": 0,
+                "xml": 0,
+                "nlf": 0,
+                "tcf": 0,
+                "vcd": 0,
+                "dvd": 0,
+                "hdtv": 0,
+                "logo": "images/WD14-007.jpg",
+                "image": 0,
+                "updatetime": "2024-07-22 14:23:50",
+                "updateman": "",
+                "ispublic": 1,
+                "flag": 0,
+                "category_AMTB_ID": 47,
+                "createtime": null,
+                "titlegb": "地藏菩萨本愿经",
+                "titlegb_at": "2024-07-22 14:31:44",
+                "voices": "",
+                "photography_unit": null,
+                "schedulepublic": null,
+                "titlealt": "地藏菩薩本願經",
+                "titlegbalt": "地藏菩萨本愿经",
+                "topspeech": 0,
+                "all_hits": 538,
+                "new_categories": [
+                    {
+                        "AMTB_ID": 47,
+                        "isShow": 1,
+                        "AMTB_NAME": "地藏經",
+                        "postAt": "2012-06-20 15:18:41",
+                        "AMTB_PARENT_ID": 15,
+                        "level": 98,
+                        "amtborder": 0,
+                        "logo": null,
+                        "recommendedsubtableid": null,
+                        "pivot": {
+                            "subtable_id": 4558,
+                            "CategoryNew_id": 47
+                        }
+                    }
+                ],
+                "subtable_tags": [
+                    {
+                        "id": 12,
+                        "meta_comments": "",
+                        "meta_value": "悟道法師",
+                        "parent_id": 2,
+                        "isShow": 1,
+                        "rank": 21,
+                        "pivot": {
+                            "subtable_id": 4558,
+                            "subtabletag_id": 12
+                        }
+                    },
+                    {
+                        "id": 30,
+                        "meta_comments": "",
+                        "meta_value": "2016",
+                        "parent_id": 1,
+                        "isShow": 1,
+                        "rank": 9,
+                        "pivot": {
+                            "subtable_id": 4558,
+                            "subtabletag_id": 30
+                        }
+                    },
+                    {
+                        "id": 42,
+                        "meta_comments": "",
+                        "meta_value": "歐洲",
+                        "parent_id": 3,
+                        "isShow": 1,
+                        "rank": 44,
+                        "pivot": {
+                            "subtable_id": 4558,
+                            "subtabletag_id": 42
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 5785,
+                "menuid": "62-298",
+                "menuidparent": "62",
+                "menuidchild": 298,
+                "voice": "",
+                "title": "念佛共修",
+                "speechmaker": "-",
+                "speechdate": null,
+                "speechplace": null,
+                "introduction": null,
+                "numbers": 1,
+                "numbers_manual": 1,
+                "teachingbook": null,
+                "referencebook": null,
+                "hits": 0,
+                "netprogress": null,
+                "comments": null,
+                "txt": 0,
+                "mp3": 1,
+                "wmv": 0,
+                "hiwmv": 0,
+                "mp4": 1,
+                "himp4": 1,
+                "stb": 0,
+                "rmvb": 0,
+                "flv": 0,
+                "avi": 0,
+                "m2p": 0,
+                "xml": 0,
+                "nlf": 0,
+                "tcf": 0,
+                "vcd": 0,
+                "dvd": 0,
+                "hdtv": 0,
+                "logo": "images/62-298.jpg",
+                "image": 0,
+                "updatetime": "2024-11-07 14:11:00",
+                "updateman": "",
+                "ispublic": 1,
+                "flag": 0,
+                "category_AMTB_ID": 90,
+                "createtime": null,
+                "titlegb": "念佛共修",
+                "titlegb_at": "2024-11-07 14:16:50",
+                "voices": "",
+                "photography_unit": "華藏影音組剪接製作",
+                "schedulepublic": null,
+                "titlealt": "念佛共修",
+                "titlegbalt": "念佛共修",
+                "topspeech": 0,
+                "all_hits": 321,
+                "new_categories": [
+                    {
+                        "AMTB_ID": 90,
+                        "isShow": 1,
+                        "AMTB_NAME": "念佛",
+                        "postAt": "2012-06-24 20:58:43",
+                        "AMTB_PARENT_ID": 60,
+                        "level": 115,
+                        "amtborder": 0,
+                        "logo": null,
+                        "recommendedsubtableid": null,
+                        "pivot": {
+                            "subtable_id": 5785,
+                            "CategoryNew_id": 90
+                        }
+                    }
+                ],
+                "subtable_tags": [
+                    {
+                        "id": 32,
+                        "meta_comments": "",
+                        "meta_value": "臺灣",
+                        "parent_id": 3,
+                        "isShow": 1,
+                        "rank": 35,
+                        "pivot": {
+                            "subtable_id": 5785,
+                            "subtabletag_id": 32
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 4410,
+                "menuid": "61-233",
+                "menuidparent": "61",
+                "menuidchild": 233,
+                "voice": "",
+                "title": "地鐘念佛、地鐘念佛一支香",
+                "speechmaker": "悟道法師領眾",
+                "speechdate": "2013.12",
+                "speechplace": "香港國際機場亞洲國際博覽館",
+                "introduction": null,
+                "numbers": 2,
+                "numbers_manual": 2,
+                "teachingbook": null,
+                "referencebook": null,
+                "hits": 0,
+                "netprogress": null,
+                "comments": null,
+                "txt": 0,
+                "mp3": 1,
+                "wmv": 0,
+                "hiwmv": 0,
+                "mp4": 0,
+                "himp4": 0,
+                "stb": 0,
+                "rmvb": 0,
+                "flv": 0,
+                "avi": 0,
+                "m2p": 0,
+                "xml": 0,
+                "nlf": 0,
+                "tcf": 0,
+                "vcd": 0,
+                "dvd": 0,
+                "hdtv": 0,
+                "logo": "images/61-233.jpg",
+                "image": 0,
+                "updatetime": "2024-11-07 14:06:10",
+                "updateman": "",
+                "ispublic": 1,
+                "flag": 0,
+                "category_AMTB_ID": 90,
+                "createtime": null,
+                "titlegb": "地钟念佛、地钟念佛一支香",
+                "titlegb_at": "2024-11-07 14:16:50",
+                "voices": "",
+                "photography_unit": null,
+                "schedulepublic": null,
+                "titlealt": "地鐘念佛、地鐘念佛一支香",
+                "titlegbalt": "地钟念佛、地钟念佛一支香",
+                "topspeech": 0,
+                "all_hits": 295,
+                "new_categories": [
+                    {
+                        "AMTB_ID": 90,
+                        "isShow": 1,
+                        "AMTB_NAME": "念佛",
+                        "postAt": "2012-06-24 20:58:43",
+                        "AMTB_PARENT_ID": 60,
+                        "level": 115,
+                        "amtborder": 0,
+                        "logo": null,
+                        "recommendedsubtableid": null,
+                        "pivot": {
+                            "subtable_id": 4410,
+                            "CategoryNew_id": 90
+                        }
+                    }
+                ],
+                "subtable_tags": [
+                    {
+                        "id": 12,
+                        "meta_comments": "",
+                        "meta_value": "悟道法師",
+                        "parent_id": 2,
+                        "isShow": 1,
+                        "rank": 21,
+                        "pivot": {
+                            "subtable_id": 4410,
+                            "subtabletag_id": 12
+                        }
+                    },
+                    {
+                        "id": 27,
+                        "meta_comments": "",
+                        "meta_value": "2013",
+                        "parent_id": 1,
+                        "isShow": 1,
+                        "rank": 12,
+                        "pivot": {
+                            "subtable_id": 4410,
+                            "subtabletag_id": 27
+                        }
+                    },
+                    {
+                        "id": 33,
+                        "meta_comments": "",
+                        "meta_value": "香港",
+                        "parent_id": 3,
+                        "isShow": 1,
+                        "rank": 36,
+                        "pivot": {
+                            "subtable_id": 4410,
+                            "subtabletag_id": 33
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 5709,
+                "menuid": "WD32-077",
+                "menuidparent": "WD32",
+                "menuidchild": 77,
+                "voice": "",
+                "title": "華藏淨宗學會宜蘭念佛堂三時繫念法會開示",
+                "speechmaker": "悟道法師",
+                "speechdate": "2020.3.8",
+                "speechplace": "華藏淨宗學會宜蘭念佛堂",
+                "introduction": null,
+                "numbers": 27,
+                "numbers_manual": 3,
+                "teachingbook": null,
+                "referencebook": null,
+                "hits": 0,
+                "netprogress": null,
+                "comments": null,
+                "txt": 1,
+                "mp3": 1,
+                "wmv": 0,
+                "hiwmv": 0,
+                "mp4": 1,
+                "himp4": 1,
+                "stb": 0,
+                "rmvb": 0,
+                "flv": 0,
+                "avi": 0,
+                "m2p": 0,
+                "xml": 0,
+                "nlf": 0,
+                "tcf": 0,
+                "vcd": 0,
+                "dvd": 0,
+                "hdtv": 0,
+                "logo": "images/WD32-077.jpg",
+                "image": 0,
+                "updatetime": "2024-08-19 16:20:07",
+                "updateman": "",
+                "ispublic": 1,
+                "flag": 0,
+                "category_AMTB_ID": 49,
+                "createtime": null,
+                "titlegb": "华藏净宗学会宜兰念佛堂三时系念法会开示",
+                "titlegb_at": "2024-08-19 16:31:38",
+                "voices": "",
+                "photography_unit": "華藏影音組",
+                "schedulepublic": null,
+                "titlealt": "華藏淨宗學會宜蘭念佛堂三時繫念法會開示",
+                "titlegbalt": "华藏净宗学会宜兰念佛堂三时系念法会开示",
+                "topspeech": 0,
+                "all_hits": 192,
+                "new_categories": [
+                    {
+                        "AMTB_ID": 49,
+                        "isShow": 1,
+                        "AMTB_NAME": "開示講話",
+                        "postAt": "2012-06-20 15:19:22",
+                        "AMTB_PARENT_ID": 17,
+                        "level": 90,
+                        "amtborder": 0,
+                        "logo": null,
+                        "recommendedsubtableid": null,
+                        "pivot": {
+                            "subtable_id": 5709,
+                            "CategoryNew_id": 49
+                        }
+                    }
+                ],
+                "subtable_tags": [
+                    {
+                        "id": 12,
+                        "meta_comments": "",
+                        "meta_value": "悟道法師",
+                        "parent_id": 2,
+                        "isShow": 1,
+                        "rank": 21,
+                        "pivot": {
+                            "subtable_id": 5709,
+                            "subtabletag_id": 12
+                        }
+                    },
+                    {
+                        "id": 32,
+                        "meta_comments": "",
+                        "meta_value": "臺灣",
+                        "parent_id": 3,
+                        "isShow": 1,
+                        "rank": 35,
+                        "pivot": {
+                            "subtable_id": 5709,
+                            "subtabletag_id": 32
+                        }
+                    },
+                    {
+                        "id": 64,
+                        "meta_comments": "",
+                        "meta_value": "2020",
+                        "parent_id": 1,
+                        "isShow": 1,
+                        "rank": 5,
+                        "pivot": {
+                            "subtable_id": 5709,
+                            "subtabletag_id": 64
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 2066,
+                "menuid": "WD05-001",
+                "menuidparent": "WD05",
+                "menuidchild": 1,
+                "voice": "",
+                "title": "大勢至菩薩念佛圓通章疏鈔菁華",
+                "speechmaker": "悟道法師",
+                "speechdate": "2000.9.8-9.13",
+                "speechplace": "新加坡佛教居士林",
+                "introduction": null,
+                "numbers": 5,
+                "numbers_manual": 5,
+                "teachingbook": null,
+                "referencebook": null,
+                "hits": 0,
+                "netprogress": null,
+                "comments": null,
+                "txt": 1,
+                "mp3": 1,
+                "wmv": 0,
+                "hiwmv": 0,
+                "mp4": 1,
+                "himp4": 1,
+                "stb": 0,
+                "rmvb": 0,
+                "flv": 0,
+                "avi": 0,
+                "m2p": 0,
+                "xml": 0,
+                "nlf": 0,
+                "tcf": 0,
+                "vcd": 0,
+                "dvd": 0,
+                "hdtv": 0,
+                "logo": "images/WD05-001.jpg",
+                "image": 0,
+                "updatetime": "2024-07-09 16:11:30",
+                "updateman": "SYSTEM_BOT",
+                "ispublic": 1,
+                "flag": 1,
+                "category_AMTB_ID": 94,
+                "createtime": null,
+                "titlegb": "大势至菩萨念佛圆通章疏钞菁华",
+                "titlegb_at": "2024-07-09 16:18:31",
+                "voices": "",
+                "photography_unit": null,
+                "schedulepublic": null,
+                "titlealt": "大勢至菩薩念佛圓通章疏鈔菁華",
+                "titlegbalt": "大势至菩萨念佛圆通章疏钞菁华",
+                "topspeech": 0,
+                "all_hits": 178,
+                "new_categories": [
+                    {
+                        "AMTB_ID": 94,
+                        "isShow": 1,
+                        "AMTB_NAME": "念佛圓通章",
+                        "postAt": "2012-06-25 09:21:39",
+                        "AMTB_PARENT_ID": 14,
+                        "level": 86,
+                        "amtborder": 0,
+                        "logo": null,
+                        "recommendedsubtableid": null,
+                        "pivot": {
+                            "subtable_id": 2066,
+                            "CategoryNew_id": 94
+                        }
+                    },
+                    {
+                        "AMTB_ID": 176,
+                        "isShow": 1,
+                        "AMTB_NAME": "閩南語",
+                        "postAt": "2021-01-28 14:13:37",
+                        "AMTB_PARENT_ID": 175,
+                        "level": 145,
+                        "amtborder": 0,
+                        "logo": null,
+                        "recommendedsubtableid": null,
+                        "pivot": {
+                            "subtable_id": 2066,
+                            "CategoryNew_id": 176
+                        }
+                    }
+                ],
+                "subtable_tags": [
+                    {
+                        "id": 12,
+                        "meta_comments": "",
+                        "meta_value": "悟道法師",
+                        "parent_id": 2,
+                        "isShow": 1,
+                        "rank": 21,
+                        "pivot": {
+                            "subtable_id": 2066,
+                            "subtabletag_id": 12
+                        }
+                    },
+                    {
+                        "id": 23,
+                        "meta_comments": "",
+                        "meta_value": "1991~2000",
+                        "parent_id": 1,
+                        "isShow": 1,
+                        "rank": 16,
+                        "pivot": {
+                            "subtable_id": 2066,
+                            "subtabletag_id": 23
+                        }
+                    },
+                    {
+                        "id": 35,
+                        "meta_comments": "",
+                        "meta_value": "新加坡",
+                        "parent_id": 3,
+                        "isShow": 1,
+                        "rank": 37,
+                        "pivot": {
+                            "subtable_id": 2066,
+                            "subtabletag_id": 35
+                        }
+                    },
+                    {
+                        "id": 50,
+                        "meta_comments": "MN",
+                        "meta_value": "閩南語",
+                        "parent_id": 5,
+                        "isShow": 1,
+                        "rank": 53,
+                        "pivot": {
+                            "subtable_id": 2066,
+                            "subtabletag_id": 50
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 2543,
+                "menuid": "56-052",
+                "menuidparent": "56",
+                "menuidchild": 52,
+                "voice": "",
+                "title": "弘揚中華文化 構建和諧社會 青島第三屆全國企業家論壇暨慶祝2010年中華母親節活動－學習《弟子規》落實在感恩 改過",
+                "speechmaker": "胡小林董事長",
+                "speechdate": "2010.5.3",
+                "speechplace": "中國山東青島",
+                "introduction": null,
+                "numbers": 2,
+                "numbers_manual": 2,
+                "teachingbook": null,
+                "referencebook": null,
+                "hits": 0,
+                "netprogress": null,
+                "comments": null,
+                "txt": 0,
+                "mp3": 1,
+                "wmv": 0,
+                "hiwmv": 0,
+                "mp4": 1,
+                "himp4": 1,
+                "stb": 0,
+                "rmvb": 0,
+                "flv": 0,
+                "avi": 0,
+                "m2p": 0,
+                "xml": 0,
+                "nlf": 0,
+                "tcf": 0,
+                "vcd": 0,
+                "dvd": 0,
+                "hdtv": 0,
+                "logo": "images/56-052.jpg",
+                "image": 0,
+                "updatetime": "2024-10-04 15:45:05",
+                "updateman": "",
+                "ispublic": 1,
+                "flag": 0,
+                "category_AMTB_ID": 81,
+                "createtime": null,
+                "titlegb": "弘扬中华文化 构建和谐社会 青岛第三届全国企业家论坛暨庆祝2010年中华母亲节活动－学习《弟子规》落实在感恩 改过",
+                "titlegb_at": "2024-10-04 15:47:21",
+                "voices": "",
+                "photography_unit": null,
+                "schedulepublic": null,
+                "titlealt": "弘揚中華文化 構建和諧社會 青島第三屆全國企業家論壇暨慶祝2010年中華母親節活動－學習《弟子規》落實在感恩 改過",
+                "titlegbalt": "弘扬中华文化 构建和谐社会 青岛第三届全国企业家论坛暨庆祝2010年中华母亲节活动－学习《弟子规》落实在感恩 改过",
+                "topspeech": 0,
+                "all_hits": 161,
+                "new_categories": [
+                    {
+                        "AMTB_ID": 80,
+                        "isShow": 1,
+                        "AMTB_NAME": "劉素雲老師",
+                        "postAt": "2012-06-22 13:02:53",
+                        "AMTB_PARENT_ID": 187,
+                        "level": 132,
+                        "amtborder": 0,
+                        "logo": null,
+                        "recommendedsubtableid": null,
+                        "pivot": {
+                            "subtable_id": 2543,
+                            "CategoryNew_id": 80
+                        }
+                    },
+                    {
+                        "AMTB_ID": 81,
+                        "isShow": 1,
+                        "AMTB_NAME": "胡小林老師",
+                        "postAt": "2012-06-22 13:03:02",
+                        "AMTB_PARENT_ID": 187,
+                        "level": 131,
+                        "amtborder": 0,
+                        "logo": null,
+                        "recommendedsubtableid": null,
+                        "pivot": {
+                            "subtable_id": 2543,
+                            "CategoryNew_id": 81
+                        }
+                    },
+                    {
+                        "AMTB_ID": 82,
+                        "isShow": 1,
+                        "AMTB_NAME": "更多講演者",
+                        "postAt": "2012-06-22 13:03:15",
+                        "AMTB_PARENT_ID": 187,
+                        "level": 133,
+                        "amtborder": 0,
+                        "logo": null,
+                        "recommendedsubtableid": null,
+                        "pivot": {
+                            "subtable_id": 2543,
+                            "CategoryNew_id": 82
+                        }
+                    },
+                    {
+                        "AMTB_ID": 85,
+                        "isShow": 1,
+                        "AMTB_NAME": "周泳杉老師",
+                        "postAt": "2012-06-22 13:03:47",
+                        "AMTB_PARENT_ID": 187,
+                        "level": 130,
+                        "amtborder": 0,
+                        "logo": null,
+                        "recommendedsubtableid": null,
+                        "pivot": {
+                            "subtable_id": 2543,
+                            "CategoryNew_id": 85
+                        }
+                    },
+                    {
+                        "AMTB_ID": 141,
+                        "isShow": 1,
+                        "AMTB_NAME": "黃柏霖警官",
+                        "postAt": "2014-06-04 11:35:17",
+                        "AMTB_PARENT_ID": 187,
+                        "level": 129,
+                        "amtborder": 0,
+                        "logo": null,
+                        "recommendedsubtableid": null,
+                        "pivot": {
+                            "subtable_id": 2543,
+                            "CategoryNew_id": 141
+                        }
+                    },
+                    {
+                        "AMTB_ID": 184,
+                        "isShow": 1,
+                        "AMTB_NAME": "活動紀實",
+                        "postAt": "2021-02-04 17:58:52",
+                        "AMTB_PARENT_ID": 62,
+                        "level": 120,
+                        "amtborder": 0,
+                        "logo": null,
+                        "recommendedsubtableid": null,
+                        "pivot": {
+                            "subtable_id": 2543,
+                            "CategoryNew_id": 184
+                        }
+                    }
+                ],
+                "subtable_tags": [
+                    {
+                        "id": 18,
+                        "meta_comments": "",
+                        "meta_value": "胡小林老師",
+                        "parent_id": 2,
+                        "isShow": 1,
+                        "rank": 27,
+                        "pivot": {
+                            "subtable_id": 2543,
+                            "subtabletag_id": 18
+                        }
+                    },
+                    {
+                        "id": 24,
+                        "meta_comments": "",
+                        "meta_value": "2001~2010",
+                        "parent_id": 1,
+                        "isShow": 1,
+                        "rank": 15,
+                        "pivot": {
+                            "subtable_id": 2543,
+                            "subtabletag_id": 24
+                        }
+                    },
+                    {
+                        "id": 43,
+                        "meta_comments": "",
+                        "meta_value": "大陸",
+                        "parent_id": 3,
+                        "isShow": 1,
+                        "rank": 45,
+                        "pivot": {
+                            "subtable_id": 2543,
+                            "subtabletag_id": 43
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 5655,
+                "menuid": "63-008",
+                "menuidparent": "63",
+                "menuidchild": 8,
+                "voice": "",
+                "title": "三時繫念教學",
+                "speechmaker": "悟道法師",
+                "speechdate": "2003.2.25-26",
+                "speechplace": "香港佛陀教育協會",
+                "introduction": null,
+                "numbers": 4,
+                "numbers_manual": 4,
+                "teachingbook": null,
+                "referencebook": null,
+                "hits": 0,
+                "netprogress": null,
+                "comments": null,
+                "txt": 1,
+                "mp3": 1,
+                "wmv": 0,
+                "hiwmv": 0,
+                "mp4": 1,
+                "himp4": 1,
+                "stb": 0,
+                "rmvb": 0,
+                "flv": 0,
+                "avi": 0,
+                "m2p": 0,
+                "xml": 0,
+                "nlf": 0,
+                "tcf": 0,
+                "vcd": 0,
+                "dvd": 0,
+                "hdtv": 0,
+                "logo": "images/63-008.jpg",
+                "image": 0,
+                "updatetime": "2024-09-16 15:24:58",
+                "updateman": "",
+                "ispublic": 1,
+                "flag": 0,
+                "category_AMTB_ID": null,
+                "createtime": null,
+                "titlegb": "三时系念教学",
+                "titlegb_at": "2024-09-16 15:31:54",
+                "voices": "",
+                "photography_unit": null,
+                "schedulepublic": null,
+                "titlealt": "三時繫念教學",
+                "titlegbalt": "三时系念教学",
+                "topspeech": 0,
+                "all_hits": 144,
+                "new_categories": [
+                    {
+                        "AMTB_ID": 142,
+                        "isShow": 1,
+                        "AMTB_NAME": "梵唄教學",
+                        "postAt": "2014-08-29 10:40:46",
+                        "AMTB_PARENT_ID": 60,
+                        "level": 117,
+                        "amtborder": 0,
+                        "logo": null,
+                        "recommendedsubtableid": null,
+                        "pivot": {
+                            "subtable_id": 5655,
+                            "CategoryNew_id": 142
+                        }
+                    }
+                ],
+                "subtable_tags": []
+            }
+        ]
+    },
+    "topspeechhome": {
+        "name": "悟道法師置頂講演",
+        "data": []
+    },
+    "recentspeech": [
+        {
+            "id": 393034,
+            "itemidparent": "WD20",
+            "itemidchild": 64,
+            "num": 92,
+            "numdesc": "第92集",
+            "voice": "",
+            "menuid": "WD20-064",
+            "itemid": "WD20-064-0092",
+            "title": "群書治要360 講記",
+            "itemdate": "2024.11.27",
+            "speechplace": "華藏淨宗學會",
+            "speechmaker": "悟道法師",
+            "poster": "poster/WD20/WD20-064/WD20-064-0092.png"
+        },
+        {
+            "id": 393033,
+            "itemidparent": "68",
+            "itemidchild": 1,
+            "num": 205,
+            "numdesc": "第205集",
+            "voice": "",
+            "menuid": "68-001",
+            "itemid": "68-001-0205",
+            "title": "小沙彌",
+            "itemdate": "",
+            "speechplace": null,
+            "speechmaker": "-",
+            "poster": "poster/68/68-001/68-001-0205.png"
+        },
+        {
+            "id": 393015,
+            "itemidparent": "62",
+            "itemidchild": 321,
+            "num": 2,
+            "numdesc": "第2集",
+            "voice": "",
+            "menuid": "62-321",
+            "itemid": "62-321-0002",
+            "title": "2024 歲次甲辰第六屆新馬印護國息災超薦繫念法會",
+            "itemdate": "2024.09.21-22",
+            "speechplace": "新加坡博覽中心第2展覽廳",
+            "speechmaker": "悟道法師主法 ",
+            "poster": "poster/62/62-321/62-321-0002.png"
+        },
+        {
+            "id": 392507,
+            "itemidparent": "62",
+            "itemidchild": 319,
+            "num": 1,
+            "numdesc": "第1集",
+            "voice": "",
+            "menuid": "62-319",
+            "itemid": "62-319-0001",
+            "title": "二Ｏ二四年甲辰中元普渡祭祖護國息災祈福超薦繫念法會",
+            "itemdate": "2024.8.24-25",
+            "speechplace": "台灣台北市外貿協會國際會議中心",
+            "speechmaker": "悟道法師主法",
+            "poster": "poster/62/62-319/62-319-0001.png"
+        },
+        {
+            "id": 393009,
+            "itemidparent": "WD32",
+            "itemidchild": 175,
+            "num": 2,
+            "numdesc": "第2集",
+            "voice": "",
+            "menuid": "WD32-175",
+            "itemid": "WD32-175-0002",
+            "title": "二Ｏ二五國際書展華藏培訓課程開示",
+            "itemdate": "2024.10.12",
+            "speechplace": "新莊念佛堂",
+            "speechmaker": "悟道法師",
+            "poster": "poster/WD32/WD32-175/WD32-175-0002.jpg"
+        },
+        {
+            "id": 392960,
+            "itemidparent": "62",
+            "itemidchild": 320,
+            "num": 1,
+            "numdesc": "第1集",
+            "voice": "",
+            "menuid": "62-320",
+            "itemid": "62-320-0001",
+            "title": "二Ｏ二四年甲辰中元祭祖大典",
+            "itemdate": "2024.8.25",
+            "speechplace": "台灣台北市外貿協會國際會議中心",
+            "speechmaker": "-",
+            "poster": "poster/62/62-320/62-320-0001.png"
+        },
+        {
+            "id": 392247,
+            "itemidparent": "WD32",
+            "itemidchild": 7,
+            "num": 492,
+            "numdesc": "第492集",
+            "voice": "",
+            "menuid": "WD32-007",
+            "itemid": "WD32-007-0492",
+            "title": "悟道法師晨間講話",
+            "itemdate": "2024.10.14",
+            "speechplace": "華藏淨宗學會",
+            "speechmaker": "悟道法師",
+            "poster": "poster/WD32/WD32-007/WD32-007-0492.jpg"
+        },
+        {
+            "id": 392565,
+            "itemidparent": "65",
+            "itemidchild": 193,
+            "num": 18,
+            "numdesc": "第18集",
+            "voice": "",
+            "menuid": "65-193",
+            "itemid": "65-193-0018",
+            "title": "尋找觀世音",
+            "itemdate": "",
+            "speechplace": null,
+            "speechmaker": "-",
+            "poster": "poster/65/65-193/65-193-0018.jpg"
+        }
+    ]
+}
