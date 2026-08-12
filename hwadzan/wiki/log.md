@@ -1,0 +1,23 @@
+---
+type: log
+updated: 2026-08-12
+---
+
+# 活動日誌
+
+時間軸記錄所有維基活動。每筆以 `## [YYYY-MM-DD] 類型|細節` 開頭。
+
+## [2026-08-12] ingest|63-001 法器儀規教學
+- 撰寫開示頁 `wiki/佛事共修/63-001.md`（依夏蓮居《淨語·迦陵音》）。
+- 建立概念頁 `概念/念佛`、`概念/法器`。
+- 更新主題頁 `佛事共修/梵唄教學` 與 `index.md`。
+
+## [2026-08-12] ingest|51-001 無量壽經
+- 撰寫開示頁 `wiki/儒釋道文化/51-001.md`（黃念祖老居士，70 集）。
+- 更新主題頁 `儒釋道文化/其他講演者` 與 `index.md`。
+
+## [2026-08-12] schema|建立 hwadzan wiki 骨架
+- 建立 `wiki/` 骨架：SCHEMA.md、README.md、index.md、log.md，10 個類別資料夾、`概念/` 與 `問答/`。
+- 從 amtb 專案複製並改寫 `wiki/tools/`（gen_manifest / backfill_reflinks / doc_to_md / fetch / download / requirements / gen_scaffold）。
+- 將原始 `doc/` 的 `.doc` 轉成 `.md`（進行中）。
+- 後續會依 ingest 工作流程逐一系列撰寫開示頁。
