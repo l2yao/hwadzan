@@ -7,6 +7,12 @@ updated: 2026-08-12
 
 時間軸記錄所有維基活動。每筆以 `## [YYYY-MM-DD] 類型|細節` 開頭。
 
+## [2026-08-13] schema|原始語料轉檔完成
+- 完整 `.doc → .md` 轉檔完成：8999 頁、816 系列（背景 doc_to_md.py 跑完）。
+- 重新產生 `wiki/raw-manifest.md`：816 系列、8999 頁，題目／集數／日期／地點全部補齊。
+- 執行 `backfill_reflinks.py`：回填 `51-001.md` 之 70 集 `原始資料與影音` 表格（media=[mp3]）；`63-001.md` 已含表格，略過。
+- 修正 backfill_reflinks.py 前端「media:」欄位重複的 bug（`"media:" in fields` → `"media" in fields`），避免已寫 media 欄位的頁面在回填時重複。
+
 ## [2026-08-12] ingest|63-001 法器儀規教學
 - 撰寫開示頁 `wiki/佛事共修/63-001.md`（依夏蓮居《淨語·迦陵音》）。
 - 建立概念頁 `概念/念佛`、`概念/法器`。

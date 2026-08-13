@@ -156,7 +156,7 @@ def process_page(path, code_map):
 
     # --- insert media: field after raw: (skip if already present) ---
     new_fm = []
-    if "media:" in fields:
+    if "media" in fields:
         new_fm = fm_lines[:]
     else:
         for ln in fm_lines:
