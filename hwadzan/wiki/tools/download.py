@@ -11,6 +11,11 @@ doc_type = ['doc', 'pdf']
 media_type = ['mp3', 'mp4']
 executor = ThreadPoolExecutor(max_workers=4)
 
+# Series hosted in the AMTB repo (github.com/l2yao/amtb) — do not download
+# them here even though the hwadzan catalog cross-lists them. Verified
+# 2026-11-05 against amtb/amtb/doc: 02-039, 02-041, 25-156 are there.
+EXCLUDED_AMTB_SERIES = {'02-039', '02-041', '25-156'}
+
 def download(url, path, filename, ext):
     out = Path(path) / f'{filename}.{ext}'
     if out.exists():
@@ -42,7 +47,7 @@ def download_txt(dir, file_path, file_name):
     with open(file_path, 'r', encoding='utf-8') as menu_file:
         menu_file = json.load(menu_file)
         for doc in menu_file['sutables']['data']:
-            if doc['txt'] == 1:
+            if doc['txt'] == 1 and doc['menuid'] not in EXCLUDED_AMTB_SERIES:
                 menu_id = doc['menuid']
                 numbers = doc['numbers']
                 for index in range(numbers):

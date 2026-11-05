@@ -405,3 +405,9 @@ updated: 2026-08-17
 - 從 amtb 專案複製並改寫 `wiki/tools/`（gen_manifest / backfill_reflinks / doc_to_md / fetch / download / requirements / gen_scaffold）。
 - 將原始 `doc/` 的 `.doc` 轉成 `.md`（進行中）。
 - 後續會依 ingest 工作流程逐一系列撰寫開示頁。
+
+## [2026-11-05] schema|修正 fetch.py 目錄來源 + 移除 AMTB 倉庫內容
+- fetch.py 目錄來源 scope=amtb 改為 scope=hwadzan：scope=amtb 現在回傳淨空老和尚目錄（約 46,000 集），與本倉庫悟道法師＋其他影音範圍不符；scope=hwadzan 回傳正確目錄（悟道法師、其他影音、樂活基金會培訓課程）。
+- download.py 新增 EXCLUDED_AMTB_SERIES（02-039、02-041、25-156）：三者已收錄於 AMTB 倉庫（l2yao/amtb），本倉庫不再下載。
+- 67-003 念佛十種心-系列短片（10 集）原擬刪除（內容節錄淨空老法師開示），但 Long 指出刪除不當——它是華藏自製短片，屬本倉庫範圍——已撤回刪除，全部檔案與引用恢復原狀。
+- manifest：維持 816 系列／8999 頁。

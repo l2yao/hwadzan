@@ -3,7 +3,7 @@ import json
 import os
 
 try:
-    response = requests.get('https://www.amtb.tw/v2/newcategory?scope=amtb')
+    response = requests.get('https://www.amtb.tw/v2/newcategory?scope=hwadzan')
     menu = response.json()
     with open('menu.json', 'w', encoding='utf-8') as f:
         json.dump(menu, f, ensure_ascii=False, indent=4)
