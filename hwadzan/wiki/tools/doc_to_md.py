@@ -18,6 +18,14 @@ if platform.system() == 'Windows':
         # Fall through to libreoffice fallback
         print(f"pywin32 conversion failed: {e}")
 
+def _is_html_doc(doc_path):
+    """The source serves .doc files that are actually Word HTML, not OLE
+    binary documents. This VM's LibreOffice cannot import HTML at all
+    ("no export filter"), so those must go straight to markitdown."""
+    with open(doc_path, 'rb') as f:
+        return f.read(256).lstrip().lower().startswith(b'<html')
+
+
 def convert_doc_to_md(doc_path, md_path):
     """
     Converts a .doc file to a .md file using the markitdown library.
@@ -25,7 +33,20 @@ def convert_doc_to_md(doc_path, md_path):
     if not os.path.exists(doc_path):
         print(f"Error: Input file not found at {doc_path}")
         return
-    
+
+    if _is_html_doc(doc_path):
+        # Direct conversion: verified 2026-11-05 byte-identical to the
+        # committed .md produced by the .docx round-trip on 3 series.
+        print(f"Detected HTML .doc file. Converting {doc_path} directly...")
+        try:
+            result = MarkItDown().convert(doc_path)
+            with open(md_path, 'w', encoding='utf-8') as md_file:
+                md_file.write(result.markdown)
+            print(f"Conversion complete. Markdown file saved at {md_path}")
+        except Exception as e:
+            print(f"An error occurred during conversion: {e}")
+        return
+
     try:
         input_lower = doc_path.lower()
         docx_path = doc_path.replace('.doc', '.docx')
